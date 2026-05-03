@@ -4,15 +4,6 @@
 
 ---
 
-## 👥 Team Members
-
-| Name | Role | Contribution |
-|------|------|-------------|
-| D.M.T. Sanjeewa | Team Leader | Overall project coordination |
-| R.M.D.N. Rajapaksha | QA | Test planning, bug tracking, quality assurance, UAT |
-| R.M.S.A. Jayasinghe | Frontend Developer | UI/UX implementation, front-end logic |
-| D.M.N.D. Dissanayake | Frontend Developer | UI components, form design, input validation |
-| R.M.V.D. Rathnayake | Backend Developer | Database connectivity, file handling, data processing |
 
 ---
 
