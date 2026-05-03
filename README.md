@@ -1,11 +1,4 @@
-# 🎬 CineBook — Movie Ticket Booking System
-**ENT 2162 – Object-Oriented Programming | Group Project 2026**
-**University of Ruhuna, Faculty of Technology | Group 24**
 
----
-.
-
----
 
 ## 📋 Project Overview
 
