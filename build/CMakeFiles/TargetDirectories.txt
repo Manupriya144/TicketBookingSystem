@@ -1,0 +1,5 @@
+C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build/CMakeFiles/MovieTicketBookingSystem.dir
+C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build/CMakeFiles/edit_cache.dir
+C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build/CMakeFiles/rebuild_cache.dir
+C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build/CMakeFiles/MovieTicketBookingSystem_autogen_timestamp_deps.dir
+C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build/CMakeFiles/MovieTicketBookingSystem_autogen.dir

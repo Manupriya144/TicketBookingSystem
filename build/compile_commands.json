@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\MovieTicketBookingSystem_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\build\\MovieTicketBookingSystem_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build/MovieTicketBookingSystem_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/MovieTicketBookingSystem_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\main.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\main.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/main.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\database.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\database.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/database.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/database.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\loginwindow.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\loginwindow.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/loginwindow.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/loginwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\mainwindow.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\mainwindow.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/mainwindow.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\adminwindow.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\adminwindow.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/adminwindow.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/adminwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\moviemanager.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\moviemanager.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/moviemanager.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/moviemanager.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\seatselection.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\seatselection.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/seatselection.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/seatselection.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\bookingmanager.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\bookingmanager.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/bookingmanager.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/bookingmanager.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\receiptdialog.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\receiptdialog.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/receiptdialog.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/receiptdialog.cpp.obj"
+},
+{
+  "directory": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_PRINTSUPPORT_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MovieTicketBookingSystem.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MovieTicketBookingSystem.dir\\src\\reportwindow.cpp.obj -c C:\\Users\\manup\\Desktop\\MovieTicketBookingSystem_Group24\\MovieTicketSystem\\src\\reportwindow.cpp",
+  "file": "C:/Users/manup/Desktop/MovieTicketBookingSystem_Group24/MovieTicketSystem/src/reportwindow.cpp",
+  "output": "CMakeFiles/MovieTicketBookingSystem.dir/src/reportwindow.cpp.obj"
+}
+]
